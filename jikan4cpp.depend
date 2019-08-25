@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1566699308 source:/mnt/40b88ecf-5660-4110-b4c1-b6105e528191/SourceCode/git/Jikan4cpp/main.c
+
+1566700427 source:/mnt/40b88ecf-5660-4110-b4c1-b6105e528191/SourceCode/git/Jikan4cpp/src/Requester.cpp
+	"Requester.h"
+
+1566700427 /mnt/40b88ecf-5660-4110-b4c1-b6105e528191/SourceCode/git/Jikan4cpp/include/Requester.h
+
